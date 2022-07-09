@@ -1,7 +1,5 @@
 <h1>NSU Evader - 2D Game 🛸</h1>
 
- ### [YouTube Demonstration]()
-
 <h2>Description:</h2>
 A 2D game where the player gets to control a spaceship battling a swarm of other enemy spaceships and asteroids. The purpose of the game is to get to the final round (referred to as wave in the game) without maxing out of any of the health or stars (see instructions graphic for more details). If the player maxes out of the health or stars, it will be game over for them. The game is customizable in the unity editor, allowing the editor to adjust the speed of the enemies, the amount of each type of enemy, the amount of waves, etc. for desired playtime and difficulty.  
 <br />
@@ -15,9 +13,13 @@ A 2D game where the player gets to control a spaceship battling a swarm of other
 - <b>Graphics Provided by Professor</b>
 
 
-<h2>Environments Used:</h2>
+<h2>Environment Used:</h2>
 
 - <b>Windows 10</b>
+
+<h2>Video of Gameplay:</h2>
+
+https://user-images.githubusercontent.com/108961499/178088213-b9829eb0-3f09-4c9a-b548-0baaf19a094c.mp4
 
 <h2>Game Instructions:</h2>
 
